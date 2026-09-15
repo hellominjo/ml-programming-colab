@@ -10,14 +10,16 @@ This repository contains hands-on labs and exercises from the **Machine Learning
 
 The labs focus on understanding how machine learning works and exploring its applications in **educational data and EdTech**.
 
-## 🎯 Learning Objectives
+---
+
+### 🎯 Learning Objectives
 
 - Understand fundamental Machine Learning and Deep Learning concepts.
 - Implement and evaluate ML models using Google Colab.
 - Apply Machine Learning techniques to educational and image data.
 - Explore practical applications of ML in education and EdTech.
 
-## 🧪 Labs
+### 🧪 Labs
 
 The labs follow a practical learning process:
 
@@ -32,7 +34,7 @@ The labs follow a practical learning process:
 | Model Evaluation | Evaluate and interpret model performance |
 | Educational Data | Apply machine learning to educational datasets |
 
-## 🛠 Environment
+### 🛠 Environment
 
 - Google Colab
 - NumPy / pandas
@@ -40,9 +42,9 @@ The labs follow a practical learning process:
 - scikit-learn
 - TensorFlow / PyTorch
 
----
 
-## 💡 Machine Learning for EdTech
+
+### 💡 Machine Learning for EdTech
 
 This repository goes beyond implementing machine learning algorithms. It explores how **educational questions can be translated into machine learning problems** and how model results can help us better understand learners and learning processes.
 
